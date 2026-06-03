@@ -36,3 +36,4 @@ jobs:
           releaseBody: 'Fixed Splice GraphQL API Apollo headers.'
           releaseDraft: true
           prerelease: false
+          args: --ignore-workspace
